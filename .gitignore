@@ -1,4 +1,10 @@
 /node_modules
 /dist
 /coverage
-.idea
+.idea/atlassian-ide-plugin.xml
+.idea/copyright/
+.idea/jsLibraryMappings.xml
+.idea/watcherTasks.xml
+.idea/workspace.xml
+.idea/compiler.xml
+.idea/misc.xml
