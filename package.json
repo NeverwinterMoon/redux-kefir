@@ -1,10 +1,10 @@
 {
-  "name": "redux-kefir",
-  "version": "0.1.8",
+  "name": "redux-kefir-1",
+  "version": "1.0.0",
   "description": "Kefir bindings for Redux",
   "main": "dist/redux-kefir.js",
   "jsnext:main": "src/index.js",
-  "author": "Rudolfs Vikmanis <rudolfs.vikmanis@gmail.com> (https://github.com/rvikmanis)",
+  "author": "Pavel Sorokin <manni.calavera@gmail.com> (https://github.com/neverwintermoon)",
   "license": "MIT",
   "keywords": [
     "redux",
